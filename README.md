@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+TSIG born of desperation heading for greatness
